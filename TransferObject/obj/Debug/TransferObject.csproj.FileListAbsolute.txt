@@ -1,6 +1,0 @@
-C:\ÔnGK\MovieTicketBooking\TrensferObject\bin\Debug\TrensferObject.dll
-C:\ÔnGK\MovieTicketBooking\TrensferObject\bin\Debug\TrensferObject.pdb
-C:\ÔnGK\MovieTicketBooking\TrensferObject\obj\Debug\TransferObject.csproj.AssemblyReference.cache
-C:\ÔnGK\MovieTicketBooking\TrensferObject\obj\Debug\TransferObject.csproj.CoreCompileInputs.cache
-C:\ÔnGK\MovieTicketBooking\TrensferObject\obj\Debug\TrensferObject.dll
-C:\ÔnGK\MovieTicketBooking\TrensferObject\obj\Debug\TrensferObject.pdb
