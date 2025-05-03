@@ -1,0 +1,9 @@
+C:\ÔnGK\MovieTicketBooking\DataLayer\bin\Debug\DataLayer.dll
+C:\ÔnGK\MovieTicketBooking\DataLayer\bin\Debug\DataLayer.pdb
+C:\ÔnGK\MovieTicketBooking\DataLayer\bin\Debug\TrensferObject.dll
+C:\ÔnGK\MovieTicketBooking\DataLayer\bin\Debug\TrensferObject.pdb
+C:\ÔnGK\MovieTicketBooking\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\ÔnGK\MovieTicketBooking\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\ÔnGK\MovieTicketBooking\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\ÔnGK\MovieTicketBooking\DataLayer\obj\Debug\DataLayer.dll
+C:\ÔnGK\MovieTicketBooking\DataLayer\obj\Debug\DataLayer.pdb
